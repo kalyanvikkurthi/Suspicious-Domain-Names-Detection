@@ -97,3 +97,22 @@ To test the model on new domains, follow these steps:
    - The script will provide results based on the entered domain name.
 
 **Note:** If you face any access issues while running the script, you can use the `chmod +x` command to make it executable.
+
+
+## Work Distribution:
+
+- **Kalyan VIkkurthi:**
+  - Data preprocessing
+  - Model development
+  - Presentation
+  - Report
+
+- **Manidedeepya:**
+  - Data collection and model development
+  - Report
+  - Presentation
+
+- **Nikhil Mylarusetty:**
+  - Feature engineering and model development
+  - Presentation
+  - Report
