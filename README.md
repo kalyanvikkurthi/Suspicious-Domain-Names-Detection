@@ -67,8 +67,8 @@ Ensure that both files are in your "results" folder
 
 Execute the provided shell script to initiate the testing process. This script triggers the model_accuracy_results.py to assess the model's accuracy using the pre-trained files for both 39 features and 15 features.
 
-```bash
-./Single_Domain_Prediction.sh
+
+Command :  ./Single_Domain_Prediction.sh
 
 
 3. View Prediction
